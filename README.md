@@ -1,6 +1,15 @@
-# OASIS Healthcare Management System
+# OASIS Healthcare Management System — QA & Project Delivery
 
 A PHP/MySQL healthcare management prototype covering patient records, doctor assignment, appointments, billing, discharge, caretaker workflows, and administration.
+
+## QA contribution
+
+- Performed manual testing of the application workflows.
+- Prepared test cases and documented results in test and final reports.
+- Captured screenshots and screen recordings as evidence for the project submission.
+- Coordinated QA and project delivery through completion.
+
+Testing deliverables reflect the work completed and submitted; detailed submission artifacts are not included in this repository.
 
 ## Focus
 
